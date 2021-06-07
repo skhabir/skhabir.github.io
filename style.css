@@ -1,0 +1,153 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.slid-container{
+    background: linear-gradient(#000000ad,#000000ad),url(/img/banner\ img\ 1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.circle{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 2px solid #0fa080;
+    display: inline-block;
+    font-size: 25px;
+    text-align: center;
+    color: #0fa080;
+    margin-left: 2px;
+}
+.circle:hover{
+    background-color: white;
+    border: 2px solid white;
+}
+.navbar-container{
+    position: sticky;
+    top: 0;
+    z-index: 2;
+}
+.nav-link:hover{
+    color:#0fa080!important;
+}
+.about-container{
+    background-color: #d6d4d4;
+}
+.about-header{
+    font-weight: 600;
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+.about-detail{
+    font-weight: 500;
+    font-size: 15px;
+    color: #0fa080;
+}
+.profile-icon{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 2px solid #0fa080;
+    display: inline-block;
+    font-size: 20px;
+    text-align: center;
+    padding: auto;
+    color: #0fa080; 
+    vertical-align:auto
+}
+.profile-header{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.profile-detail{
+    font-size: 15px;
+    text-align: center;
+}
+.project-header{
+    font-weight: 600;
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+.project-link{
+    font-weight: 500;
+    font-size: 20px;
+    text-decoration: none;
+}
+.project-detail{
+    font-weight: 600;
+    font-size: 15px;
+    border: 2px solid #0fa080;
+    color: #0fa080;
+    text-align: center;
+    margin-top: 10px;
+}
+.portfolio-head{
+    font-weight: 600;
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+.countdown-container{
+    background: linear-gradient(#000000ad,#000000ad),url(/img/countdown.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+.countdown-span{
+    font-weight: 600;
+    font-size: 72px;
+}
+.countdown-head{
+    font-size: 20px;
+    font-weight: 500;
+}
+.gallary-container{
+    background-color: #d6d4d4;
+}
+.contact-head{
+    font-weight: 600;
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+.contact-detail{
+    font-weight: 500;
+    font-size: 15px;
+    color: #0fa080;
+}
+.inner-form{
+    background:#d6d4d4;
+}
+.button-color{
+    background-color:#d6d4d4;
+    color: white;
+}
+.button-color:hover{
+    background: #0fa080;
+    color:white!important;
+}
+.footer-text{
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+}
+.footer-detail{
+    color: white;
+    font-size: 15px;
+}
+.footer{
+    background-color: #0fa080;
+}
+.footer-icon{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 2px solid white;
+    display: inline-block;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+    margin-left: 2px;
+}
+.footer-icon:hover{
+    background-color: white;
+    color: #0fa080;
+}
